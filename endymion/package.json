@@ -1,0 +1,37 @@
+{
+  "name": "endymion",
+  "version": "1.0.0",
+  "description": "Custom Drupal 8 theme using Gulp and SASS and Live Reload.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maklad42/d8theme.git"
+  },
+  "keywords": [
+    "drupal",
+    "gulp",
+    "sass",
+    "livereload",
+    "theme"
+  ],
+  "author": "maklad42",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/maklad42/d8theme/issues"
+  },
+  "homepage": "https://github.com/maklad42/d8theme#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-eslint": "^6.0.0",
+    "gulp-if": "^3.0.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-livereload": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "imagemin-pngquant": "^9.0.0"
+  }
+}

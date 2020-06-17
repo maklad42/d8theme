@@ -1,0 +1,10 @@
+global-css:
+  css:
+    theme:
+      css/endymion.css: {}
+
+global-js:
+  js:
+    js/endymion.js: {}
+  dependencies:
+    - core/jquery
