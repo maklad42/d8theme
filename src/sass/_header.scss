@@ -1,0 +1,16 @@
+header {
+  width: 100%;
+  height: 150px;
+
+  a {
+    text-decoration: none;
+
+    &hover {
+      text-decoration: underline;
+      color: #4f4f4f;
+    }
+  }
+
+
+}
+

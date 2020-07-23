@@ -24,14 +24,14 @@
   },
   "homepage": "https://github.com/maklad42/d8theme#readme",
   "devDependencies": {
+    "autoprefixer": "^9.7.0",
+    "cssnano": "^4.1.10",
     "gulp": "^4.0.2",
-    "gulp-autoprefixer": "^7.0.1",
-    "gulp-eslint": "^6.0.0",
-    "gulp-if": "^3.0.0",
-    "gulp-imagemin": "^7.1.0",
-    "gulp-livereload": "^4.0.2",
-    "gulp-sass": "^4.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.5",
-    "imagemin-pngquant": "^9.0.0"
+    "gulp-uglify": "^3.0.2"
   }
 }
